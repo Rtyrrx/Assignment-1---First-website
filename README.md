@@ -1,14 +1,14 @@
 # My First Webpage
 
-**Student Name:** Madiyar  
-**Course:** Web Development 101  
-**Instructor:** [Insert Instructor’s Name]  
-**Date:** [Insert Date]  
+**Student Name:** Bek Madias
+**Course:** WEB Technologies 1 (Front End)  
+**Instructor:** Assel Alimzhan
+**Date:** 13/09/2025  
 
 ---
 
 ## 1. Objective
-The objective of this assignment was to create a basic HTML webpage named `index.html` that demonstrates fundamental web development concepts. The webpage had to include properly structured text, lists, images, links, tables, buttons, emojis, and forms. The task also aimed to improve understanding of HTML syntax, code organization, and webpage structure while encouraging personalization.  
+The objective of this assignment was to create a basic HTML webpage named `ass1.html` that demonstrates fundamental web development concepts. The webpage had to include properly structured text, lists, images, links, tables, buttons, emojis, and forms. The task also aimed to improve understanding of HTML syntax, code organization, and webpage structure while encouraging personalization.  
 
 ---
 
